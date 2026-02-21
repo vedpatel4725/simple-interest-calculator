@@ -1,0 +1,6 @@
+curl -X GET https://api.github.com/repos/vedpatel4725/simple-interest-calculator/pulls
+
+Output:
+"head": {
+  "label": "vedpatel4725:bug-fix-revert"
+}
